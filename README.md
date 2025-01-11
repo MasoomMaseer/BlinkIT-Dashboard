@@ -3,32 +3,32 @@ This Credit Card Analysis Dashboard provides a comprehensive overview of credit 
 
 Steps Taken to Create the Dashboard
 
-Data Collection and Cleaning:
+1. Data Collection and Cleaning:
 Imported transaction data containing details such as date, transaction amounts, card type, gender, city, and spending categories.
 Cleaned the data by handling missing or inconsistent values and ensuring uniform formats for fields like dates and categories.
 
-Data Transformation:
+2. Data Transformation:
 Extracted Year, Month, and Category Type fields from the dataset to enable better filtering and visualization.
 Created calculated columns or measures for metrics such as:
 Total Spending (Sum of transaction amounts).
 Average Transaction Value.
 Total Transactions Made.
 
-Building Filters:
+3. Building Filters:
 Added slicers for Year, Card Type, and Category Type to enable users to filter the dashboard dynamically based on their preferences.
 
-Data Aggregation:
+4. Data Aggregation:
 Grouped data by relevant dimensions (e.g., city, gender, card type) to calculate aggregate metrics like:
 Spending by category and gender.
 Spending contributions from each city.
 
-Visualizations:
+5. Visualizations:
 KPI Cards: Displayed key metrics such as Total Transaction Amount, Average Transaction Value, and Number of Transactions.
 Bar Charts: Showed spend by category and category-gender breakdown.
 Pie Charts: Visualized the number of users and spending distribution by gender.
 Donut Chart: Highlighted city-wise contributions to spending.
 
-Color Scheme and Layout:
+6. Color Scheme and Layout:
 Used a consistent, visually appealing green theme to align with the financial focus of the data.
 Organized visuals in a logical flow, starting with high-level metrics and breaking them down by dimensions like gender, category, and city.
 
