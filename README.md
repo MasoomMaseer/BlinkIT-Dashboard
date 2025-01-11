@@ -32,5 +32,5 @@ Color Scheme and Layout:
 Used a consistent, visually appealing green theme to align with the financial focus of the data.
 Organized visuals in a logical flow, starting with high-level metrics and breaking them down by dimensions like gender, category, and city.
 
-Outcome
+Outcome :
 The resulting dashboard is a user-friendly and interactive tool that enables stakeholders to analyze spending patterns and demographic trends effortlessly, identify top-performing cities and categories, and gain actionable insights for decision-making.
