@@ -1,6 +1,6 @@
 # BlinkIT-Dashboard
 
-https://app.powerbi.com/view?r=eyJrIjoiYjVkNTVkNWUtNmVjNy00ODI4LThhOTQtMGM4YWQ5ZmRmNjQwIiwidCI6IjBiNzdkMGRjLTY3N2MtNDczZi1hN2JkLTE5MWVjNDQ0YzZkNyJ9
+https://app.powerbi.com/view?r=eyJrIjoiYWE0ZmRiZmQtNTA4Mi00OTk4LTkxM2YtMjkwOTA2MWNkMzZiIiwidCI6IjBiNzdkMGRjLTY3N2MtNDczZi1hN2JkLTE5MWVjNDQ0YzZkNyJ9
 
 The Blinkit Sales Analysis Dashboard provides an in-depth view of sales, customer satisfaction, and product demand across different outlet locations, sizes, and item types. It highlights key performance indicators such as total sales, average sales, the number of items sold, and customer ratings. This dashboard is designed to offer actionable insights into outlet performance, product preferences, and sales trends, enabling stakeholders to make informed business decisions.
 
