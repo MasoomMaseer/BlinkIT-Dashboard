@@ -2,7 +2,7 @@
 
 https://app.powerbi.com/view?r=eyJrIjoiYWE0ZmRiZmQtNTA4Mi00OTk4LTkxM2YtMjkwOTA2MWNkMzZiIiwidCI6IjBiNzdkMGRjLTY3N2MtNDczZi1hN2JkLTE5MWVjNDQ0YzZkNyJ9
 
-The Blinkit Sales Analysis Dashboard provides an in-depth view of sales, customer satisfaction, and product demand across different outlet locations, sizes, and item types. It highlights key performance indicators such as total sales, average sales, the number of items sold, and customer ratings. This dashboard is designed to offer actionable insights into outlet performance, product preferences, and sales trends, enabling stakeholders to make informed business decisions.
+The Spencer's Supermarket Sales Analysis Dashboard provides an in-depth view of sales, customer satisfaction, and product demand across different outlet locations, sizes, and item types. It highlights key performance indicators such as total sales, average sales, the number of items sold, and customer ratings. This dashboard is designed to offer actionable insights into outlet performance, product preferences, and sales trends, enabling stakeholders to make informed business decisions.
 
 Steps Taken to Create the Dashboard
 1. Data Collection and Cleaning
@@ -40,14 +40,14 @@ Pie Chart: Highlighted sales contributions by outlet size.
 Stacked Bars: Represented sales distribution across outlet locations (Tier 1, Tier 2, Tier 3).
 
 6. Color Scheme and Layout
-Adopted a yellow and green theme to reflect the Blinkit branding and emphasize key metrics.
+Adopted a orange and yellow theme to reflect the Spencer's branding and emphasize key metrics.
 Organized visuals to present a logical flow:
 High-level KPIs at the top.
 Product and outlet-specific breakdowns in the middle.
 Location-based insights and customer demographics at the bottom.
 
 Outcome :
-The Blinkit Sales Analysis Dashboard serves as an intuitive and interactive tool for understanding business performance and customer preferences. 
+The Spencer's Supermarket Sales Analysis Dashboard serves as an intuitive and interactive tool for understanding business performance and customer preferences. 
 
 
 
